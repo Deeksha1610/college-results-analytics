@@ -80,7 +80,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/YOUR-USERNAME/college-results-analytics.git
+git clone https://github.com/Deeksha1610/college-results-analytics.git
 
 Open the project folder:
 
